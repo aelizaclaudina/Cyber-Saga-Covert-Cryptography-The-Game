@@ -3,6 +3,6 @@ A short interactive game to be run in the console that looks at code-breaking, c
 
 Welcome to Covert Cryptography, a game that tests your cybersecurity and digital forensic knowledge!
 
-To play please save the two files into one folder to run in whatever you use (I use visual studio).
+To play please save the two files into one folder to run in whatever you use.
 
 I will be looking at further developing this when I have time to, but for now... enjoy !
